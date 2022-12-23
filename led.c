@@ -6,7 +6,7 @@ unsigned int i,j;
 
 while(1)
 {
-for(i=0;i<4;i++)
+for(i=0;i<10;i++)
 {
 P2=n[i];
 	
